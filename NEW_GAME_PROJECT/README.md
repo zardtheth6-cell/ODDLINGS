@@ -51,3 +51,26 @@ This is the independent AFTERHOURS workspace. It is separate from ODDLINGS. Do n
 - Test PC, mobile and controller.
 - Keep the no-guns/no-shooter identity.
 - Never claim completion without testing and evidence.
+
+## Production and implementation documents
+- 00_PROJECT_OVERVIEW/PRODUCTION_ROADMAP_AND_DEFINITION_OF_DONE.md
+- 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MAP_BUILD_AND_PERFORMANCE_STANDARD.md
+- 05_UI_UX_AND_ICONS/AFTERHOURS_ACCESSIBILITY_AND_DEVICE_UX.md
+- 06_GAMEPLAY_SYSTEMS/AFTERHOURS_TECHNICAL_ARCHITECTURE.md
+- 06_GAMEPLAY_SYSTEMS/AFTERHOURS_ECONOMY_AND_PROGRESSION.md
+- 06_GAMEPLAY_SYSTEMS/AFTERHOURS_DATA_SCHEMA_AND_PERSISTENCE.md
+- 08_ROBLOX_SOURCE_CODE/README.md
+- 09_ASSETS_AND_MODELS/ASSET_APPROVAL_AND_IMPORT_CHECKLIST.md
+- 10_CLAUDE_PROMPTS_AND_TASKS/CLAUDE_WORKFLOW_AND_DELIVERY_RULES.md
+- 10_CLAUDE_PROMPTS_AND_TASKS/IMPLEMENTATION_BACKLOG.md
+- 11_TESTING_AND_BUGS/SECURITY_ABUSE_AND_MODERATION_PLAN.md
+- 11_TESTING_AND_BUGS/BUG_REPORT_TEMPLATE.md
+- 11_TESTING_AND_BUGS/TEST_SESSION_REPORT_TEMPLATE.md
+- 12_BUILDS_AND_RELEASES/RELEASE_CHECKLIST_AND_ROLLBACK.md
+- 13_MARKETING_AND_PUBLISHING/LAUNCH_AND_STORE_PAGE_PLAN.md
+
+## Asset availability warning
+The generated AFTERHOURS concept boards shown in the ChatGPT conversation are not yet committed as image files in this repository. The reference index documents the intended filenames. Upload the actual image files before asking Claude to use them as repository references.
+
+## Next implementation step
+Open this folder in Claude Desktop. Start with 10_CLAUDE_PROMPTS_AND_TASKS/CLAUDE_START_HERE.md, then follow CLAUDE_WORKFLOW_AND_DELIVERY_RULES.md and IMPLEMENTATION_BACKLOG.md. Ask Claude to complete only the first approved implementation phase and return evidence before proceeding.
