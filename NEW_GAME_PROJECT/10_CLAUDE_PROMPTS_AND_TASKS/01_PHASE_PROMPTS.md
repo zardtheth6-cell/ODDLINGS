@@ -14,8 +14,8 @@ Implement walk, sprint, crouch, jump, slide, vault, lean, hide and interaction s
 Acceptance: transitions smooth; no clipping; no infinite jump/stamina; slide cannot exploit collision; footsteps match surfaces; input works on all targets.
 
 ## Phase 3 — First Mall vertical slice
-Block out and art-pass one complete navigable Mall route: entrance, atrium segment, retail zone, service corridor, security/maintenance objective and extraction. Use realistic architecture and detailed materials. Add valid hiding locations, landmarks, loot spawn nodes and AI navigation paths.
-Acceptance: no giant empty rooms; consistent scale; route readable; all rooms purposeful; AI navigates; performance profiled; screenshots from player height reviewed.
+Before construction, read the complete Mall map package: AFTERHOURS_MALL_MASTER_BLUEPRINT.md, AFTERHOURS_MALL_ROOM_SCHEDULE.md, AFTERHOURS_MALL_VISUAL_LANGUAGE.md, AFTERHOURS_MALL_GAMEPLAY_ROUTE_PLAN.md and CLAUDE_MALL_MAP_BUILD_PROMPT.md. Submit dimensioned ground/upper floor plans, room schedule, route graph and asset plan for review. Then block out and art-pass one complete navigable Mall route: entrance, atrium segment, retail zone, service corridor, security/maintenance objective and extraction. Use realistic architecture and detailed materials. Add valid hiding locations, landmarks, loot spawn nodes and AI navigation paths.
+Acceptance: floor plans match the built map; signature atrium is recognizable; no giant empty rooms; consistent scale and architectural logic; required rooms have real functions; public loop/service spine/vertical routes work; AI and human Creature traversal are verified; performance profiled; required player-height and overhead screenshots are supplied; user approval is required before Hotel work.
 
 ## Phase 4 — Explorer gameplay loop
 Implement flashlight/battery, inventory/backpack, loot, item interactions, primary and optional objectives, extraction, reward calculation and results screen. Server owns item and reward decisions.
