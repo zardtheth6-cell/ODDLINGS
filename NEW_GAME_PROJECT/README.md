@@ -27,6 +27,18 @@ This is the independent AFTERHOURS workspace. It is separate from ODDLINGS. Do n
 10. 10_CLAUDE_PROMPTS_AND_TASKS/01_PHASE_PROMPTS.md
 11. 11_TESTING_AND_BUGS/AFTERHOURS_TEST_MATRIX.md
 
+## Mall map production package
+The following documents form the authoritative map handoff for Claude:
+1. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MAP_AND_ENVIRONMENT_SPEC.md
+2. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MAP_BUILD_AND_PERFORMANCE_STANDARD.md
+3. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MALL_MASTER_BLUEPRINT.md
+4. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MALL_ROOM_SCHEDULE.md
+5. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MALL_VISUAL_LANGUAGE.md
+6. 03_WORLD_MAP_AND_ENVIRONMENT/AFTERHOURS_MALL_GAMEPLAY_ROUTE_PLAN.md
+7. 03_WORLD_MAP_AND_ENVIRONMENT/CLAUDE_MALL_MAP_BUILD_PROMPT.md
+
+Claude must use this as a complete map planning and build specification. Dimensions are initial greybox targets to validate in Roblox, not evidence of a finished map. The Hotel is deferred until the Mall is approved.
+
 ## Project folders
 - 00_PROJECT_OVERVIEW — approved scope and decisions
 - 01_GAME_CONCEPT_AND_DESIGN — game design bible
